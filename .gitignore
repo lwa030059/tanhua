@@ -1,0 +1,16 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven 编译文件
+**/target/
+
+# Java 编译文件
+*.class
+
+# 日志文件
+*.log
+
+# 本地环境配置
+.env
+**/application-local.yml
